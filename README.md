@@ -1,0 +1,5 @@
+- Conducted data cleaning, exploratory data analysis (EDA), and visualization on NYC Airbnb open data to uncover insights into short-term rental trends.
+- Analyzed property types, host activity, pricing strategies, and neighborhood performance to identify key market patterns.
+- Visualized relationships between construction year, location, and average pricing to understand demand dynamics.
+- Delivered actionable insights to improve pricing and property management decisions.
+- Tools & Technologies: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
